@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This project is to help me keep my react skills sharp
+
+I haven't built another react app since my front-end capstone in January and I want to play with the new react hooks so I'm going to make an app leveraging the SpaceX API. This is kind of a mini version of what I plan to make in my isthisin.space project, so I think this will be a fun experience.
+
+Plans:
+
+- Be able to search current missions with a typeahead for the search
+- Check a mission's status and recent updates
+- See what's coming soon
+- Get links to launch videos for missions (no idea how difficult this will be, hope it's in the data object)
 
 ## Available Scripts
 
